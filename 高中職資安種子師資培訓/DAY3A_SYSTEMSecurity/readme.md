@@ -27,4 +27,4 @@
    紅隊演練
 ```
 2020.08.28跑馬燈程式碼
-  <marquee direction="right" height="30" scrollamount="5" behavior="alternate">跑馬燈測試</marquee>
+  #<marquee direction="right" height="30" scrollamount="5" behavior="alternate">跑馬燈測試</marquee>
